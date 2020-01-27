@@ -1,3 +1,5 @@
+package com.inetBank.TestCases;
+
 public class Sample
 {
 
