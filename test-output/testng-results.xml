@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60578" started-at="2019-12-12T16:57:18Z" finished-at="2019-12-12T16:58:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60578" started-at="2019-12-12T16:57:18Z" finished-at="2019-12-12T16:58:19Z">
+      <class name="com.inetBank.TestCases.TC_LoginTest_01">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.inetBank.TestCases.TC_LoginTest_01@6f7fd0e6]" name="setup" is-config="true" duration-ms="45607" started-at="2019-12-12T22:27:18Z" finished-at="2019-12-12T22:28:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.inetBank.TestCases.TC_LoginTest_01@6f7fd0e6]" name="loginTest" duration-ms="12355" started-at="2019-12-12T22:28:04Z" finished-at="2019-12-12T22:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBank.TestCases.TC_LoginTest_01@6f7fd0e6]" name="tearDown" is-config="true" duration-ms="2572" started-at="2019-12-12T22:28:16Z" finished-at="2019-12-12T22:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBank.TestCases.TC_LoginTest_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
